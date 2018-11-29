@@ -1,0 +1,25 @@
+body {
+  background-color: pink;
+  color: black;
+}
+
+h1 {
+  color: #990000;
+  font-size: 80px;
+  text-align: center;
+  border-style: dashed;
+  border-radius: 7px;
+}
+
+hr{
+  width: 10cm;
+  margin-left: 0px;
+}
+img{
+  width:20%;
+  height:20%;
+}
+
+#firstDestinations {
+  background-color: blue;
+}
